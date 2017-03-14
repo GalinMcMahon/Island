@@ -68,6 +68,8 @@ opacity: 0.75;
 
 }
 
+p
+
 a:link {
     color: #2f9a2c;
     text-decoration: none;
@@ -95,6 +97,11 @@ opacity: 1;
     border: 3px solid #73AD21;
 }
 
+#p{
+  position: relative;
+  text-align: center;
+  color: #2A8EE6
+}
 
 
 #current_page {
