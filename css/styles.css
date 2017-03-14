@@ -1,0 +1,124 @@
+
+.clip{
+  position: relative;
+    Overflow: hidden;
+  height: 600px;
+  width: 1400px;
+
+
+}
+.clip img{
+    position: absolute;
+    top: -150px;
+    left: 0px;
+    z-index: -1;
+}
+#aloha{
+
+  position: absolute;
+  top: 400px;
+  left: 200px;
+  font-size: 200px;
+  font-weight: 800;
+  z-index: 1;
+  font-family: fantasy;
+  color: #3ad4d4;
+  opacity: 0.7;
+}
+
+#accomodations{
+
+  position: absolute;
+  top: 400px;
+  left: 100px;
+  font-size: 180px;
+  font-weight: 800;
+  z-index: 1;
+  font-family: fantasy;
+  color: #3ad4d4;
+  opacity: 0.7;
+}
+
+#textbox{
+  position:absolute;
+  display: inline-block;
+  width:200;
+}
+
+
+
+#navigation{
+background-image: url(img/Navbar.png);
+background-repeat: no-repeat;
+display: inline-block;
+position: absolute;
+font-style: Lucida Console;
+font-weight: bold;
+text-decoration:inherit;
+font-size: 25px;
+line-height: 50px;
+width: 200px;
+top: 100px;
+left: 10px;
+z-index: 1;
+color: #FFF;
+float: left;
+background-color: #3ad4d4;
+opacity: 0.75;
+
+}
+
+a:link {
+    color: #2f9a2c;
+    text-decoration: none;
+    opacity: 1;
+
+
+}
+a:visited {
+        text-decoration: none;
+color: #2f9a2c;
+
+}
+a:hover {
+text-decoration: underline;
+color: #44c640;
+opacity: 1;
+
+}
+
+.floating-box {
+    display: inline-block;
+    width: 150px;
+    height: 75px;
+    margin: 100px;
+    border: 3px solid #73AD21;
+}
+
+
+
+#current_page {
+margin: -2 0 0 0px;
+width:164px;
+min-height: 124px;
+background-image: url(img/Selected.png);
+background-repeat: no-repeat;
+}
+
+#nav {
+min-height: 28px;
+margin: 5 0 0 -14px;
+}
+
+#nav ul, li {
+list-style: strong;
+}
+
+#nav li {
+width:164px;
+}
+
+.navlink p (
+display: block;
+margin: 3500 350 350 350px;
+}
