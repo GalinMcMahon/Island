@@ -53,6 +53,7 @@ body {
 #navigation{
 background-image: url(img/Navbar.png);
 background-repeat: no-repeat;
+padding-left: 10px;
 display: inline-block;
 position: absolute;
 font-style: Lucida Console;
@@ -62,7 +63,7 @@ font-size: 25px;
 line-height: 50px;
 width: 200px;
 top: 100px;
-left: 10px;
+left: 0px;
 z-index: 1;
 color: #FFF;
 float: left;
