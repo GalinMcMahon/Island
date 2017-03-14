@@ -13,6 +13,9 @@
     left: 0px;
     z-index: -1;
 }
+body {
+  margin:0;
+}
 #aloha{
 
   position: absolute;
@@ -68,7 +71,6 @@ opacity: 0.75;
 
 }
 
-p
 
 a:link {
     color: #2f9a2c;
@@ -97,10 +99,14 @@ opacity: 1;
     border: 3px solid #73AD21;
 }
 
-#p{
+p{
+  font-size: 25px;
+  width: 1100px;
+
   position: relative;
   text-align: center;
   color: #2A8EE6
+
 }
 
 
